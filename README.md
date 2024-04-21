@@ -1,1 +1,0 @@
-DEPLOYT : Descolle.github.io
