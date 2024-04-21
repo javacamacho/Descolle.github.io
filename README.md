@@ -1,1 +1,1 @@
-DEPLOYT : Descolle.github.io
+Deploy : Descolle.github.io
