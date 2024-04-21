@@ -25,6 +25,13 @@ body {
     border: solid;
     padding: 20px 10px;
 }
+
+.anexas {
+    margin-left: 45px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 footer {
     background-color: #32908F;
     margin: 0px;
