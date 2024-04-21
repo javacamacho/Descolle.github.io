@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: white;
+}
+.foto {
+    border-radius: 100%;
+}
+.contacto {
+    float: right;
+    margin: o;
+}
+.yo h1 {
+    background-color: #8895A6;
+    margin: 30px;
+    border: solid;
+}
+.color {
+    background-color:#32908F;
+}
+
+#datos {
+    border: solid;
+    padding: 20px 10px;
+}
+footer {
+    background-color: #32908F;
+    margin: 0px;
+}
